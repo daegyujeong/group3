@@ -6,3 +6,4 @@
 
 [x] Rolo
 
+[X] namgoo
