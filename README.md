@@ -7,3 +7,4 @@
 [x] Rolo
 
 [X] namgoo
+[x] Daegyu
